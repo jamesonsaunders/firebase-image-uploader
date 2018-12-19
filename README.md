@@ -1,6 +1,8 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+A simple example of how to upload images to Firebase Storage using AngularFire2.
+
+[JamiBot YouTube Tutorial – Upload images to Firebase Storage](https://www.youtube.com/watch?v=a6btAKn7wTQ&lc=z22wv33hpxi5ivbwn04t1aokgjuvhkacgal0xxcgk02obk0h00410).
 
 ## Development server
 
