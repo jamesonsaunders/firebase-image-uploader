@@ -1,4 +1,4 @@
-# Angular Environments
+# Firebase Image Uploader
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Upload images to Firebase Storage](https://www.youtube.com/watch?v=a6btAKn7wTQ&lc=z22wv33hpxi5ivbwn04t1aokgjuvhkacgal0xxcgk02obk0h00410).
 
