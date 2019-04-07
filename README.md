@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Upload images to Firebase Storage](https://www.youtube.com/watch?v=a6btAKn7wTQ).
 
-[![Upload images to Firebase Storage](https://img.youtube.com/vi/a6btAKn7wTQ/0.jpg)](https://youtu.be/a6btAKn7wTQ)
+[![Upload images to Firebase Storage](https://img.youtube.com/vi/a6btAKn7wTQ/maxresdefault.jpg)](https://youtu.be/a6btAKn7wTQ)
 
 A simple example of how to upload images to Firebase Storage using AngularFire2.
 
