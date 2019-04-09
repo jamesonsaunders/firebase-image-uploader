@@ -1,6 +1,6 @@
 # Firebase Image Uploader
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Upload images to Firebase Storage](https://www.youtube.com/watch?v=a6btAKn7wTQ) as well as my blog article [How to Upload Images to Firebase Storage in Angular](https://blog.jamibot.com/blog/how-to-upload-images-to-firebase-storage-in-angular).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Upload images to Firebase Storage](https://www.youtube.com/watch?v=a6btAKn7wTQ) as well as my blog article [How to Upload Images to Firebase Storage in Angular](https://blog.jamibot.com/how-to-upload-images-to-firebase-storage-in-angular).
 
 [![Upload images to Firebase Storage](https://img.youtube.com/vi/a6btAKn7wTQ/maxresdefault.jpg)](https://youtu.be/a6btAKn7wTQ)
 
